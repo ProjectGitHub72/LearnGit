@@ -1,0 +1,17 @@
+I suggest you guys use Github desktop and VScode.
+`https://desktop.github.com/
+`https://code.visualstudio.com/
+
+To VSCode to work with git you also need Git Bash 
+`https://git-scm.com/
+
+NOTE:
+  While installing VScode or git or github desktop, please select the "ADD TO PATH" setting.
+
+~~ How to update a fork Repo ~~
+  -Using git-bash or cmd, navigate to the project or fork folder
+  -Run the following commands
+      `git fetch upstream            //Fetching the changes from the main repo
+      `git checkout master          //navigating to master branch
+      `git merge upstream/master   //merging the fork repo and main repo :D
+ 
