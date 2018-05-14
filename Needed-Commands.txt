@@ -15,3 +15,5 @@ NOTE:
       `git checkout master          //navigating to master branch
       `git merge upstream/master   //merging the fork repo and main repo :D
  
+
+Consult me if you are stuck. //< ME > --> < GAURAV >
